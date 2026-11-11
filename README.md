@@ -12,6 +12,10 @@ Proyecto realizado en Unity para la creación de una escena 3D invernal que repr
 5. Agregar sistema de partículas de humo (`Exhaust_Smoke`).
 6. Configurar la iluminación y composición de la escena.
 
+## Capturas
+
+![Escena Invernal](Screenshots/escena-invernal.png)
+
 ## Versión
 
 Unity 6000.6.8f
